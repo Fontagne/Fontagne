@@ -1,0 +1,15 @@
+.bandeau{
+    background-color: red;
+    height: 100px;
+    width: 1600px;
+}
+.contenu{
+    background-color: blue;
+    height: 800px;
+    width: 1600px;
+}
+.pied{
+    background-color: green;
+    height: 100px;
+    width: 1600px;
+}
