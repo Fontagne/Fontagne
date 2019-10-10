@@ -1,13 +1,13 @@
-.hautdepage{
+.topofpage{
     background-color: red;
     height: 160px; 
-    width: 1000px;
+    width: 750px;
 }
 
-.leresteducv{
+.thecv{
     background-color: lightgreen;
-    height: 1500px;
-    width: 1000px;
+    height: 750px;
+    width: 750px;
 }
 
 
