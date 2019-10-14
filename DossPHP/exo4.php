@@ -37,6 +37,7 @@ racines(1, 2, 1);
 ?>
 </body>
 </html>
+<a href="http://192.168.65.195/Fontagne">Retour menu</a>
 
 <xmp>
 php
